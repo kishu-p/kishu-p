@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kishu
-- 👀 I’m interested in ...
-- 🌱 I’m working on "WEB DEVELOPEMENT"
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on "FRONTEND DEVELOPEMENT"
+- 💬 ASk me about FRONTEND DEVELOPMENT
 - 📫 How to reach me kishu450kk@gmail.com
 
 <!---
