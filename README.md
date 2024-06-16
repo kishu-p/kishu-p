@@ -10,15 +10,15 @@
 <hr>
 - 🔭 I’m currently working on **WEB DEVELOPMENT**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **T3**
 
 - 💬 Ask me about **WEB DEVELOPMENT**
 
 - 📫 How to reach me **kishu45ss@gmail.com**
 
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kylix-p&show_icons=true&theme=dark&locale=en&layout=compact" alt="Kylix-p" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishu-p&show_icons=true&theme=dark&locale=en&layout=compact" alt="kishu-p" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kylix-p&show_icons=true&theme=dark&locale=en" alt="Kylix-p" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishu-p&show_icons=true&theme=dark&locale=en" alt="kishu-p" /></p>
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kylix-p&theme=dark" alt="Kylix-p" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishu-p&theme=dark" alt="kishu-p" /></p>
