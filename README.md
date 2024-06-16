@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <hr>
-- 🔭 I’m currently working on **WEB DEVELOPMENT**
+- 🔭 I’m currently working on **FRONTEND DEVELOPMENT**
 
-- 🌱 I’m currently learning **T3**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **WEB DEVELOPMENT**
+- 💬 Ask me about **FRONTEND DEVELOPMENT**
 
 - 📫 How to reach me **kishu45kk@gmail.com**
 
