@@ -1,6 +1,6 @@
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/kishu-p/kishu-p/actions)
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/kishu-p/kishu-p/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+![](https://visitor-badge.glitch.me/badge?page_id=kishu-p.kishu-p)
 
 <!-- <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
