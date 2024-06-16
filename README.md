@@ -1,5 +1,5 @@
-[![Actions Status](https://github.com/kishu-p/kishu-p/workflows/wakatime-stats/badge.svg)](https://github.com/kishu-p/kishu-p/actions)
-[![Actions Status](https://github.com/kishu-p/kishu-p/workflows/update-gh-activity/badge.svg)](https://github.com/kishu-p/kishu-p/actions)
+[![Actions Status](https://github.com/kishu-p/kishu-p/workflows/wakatime-stats/badge.svg)]([https://github.com/kishu-p/kishu-p/actions](https://github.com/kishu-p/kishu-p/actions))
+[![Actions Status](https://github.com/kishu-p/kishu-p/workflows/update-gh-activity/badge.svg)]([https://github.com/kishu-p/kishu-p/actions](https://github.com/kishu-p/kishu-p/actions))
 ![](https://visitor-badge.glitch.me/badge?page_id=kishu-p.kishu-p)
 
 <!-- <p align="center">
