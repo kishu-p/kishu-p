@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **WEB DEVELOPMENT**
 
-- 📫 How to reach me **kishu45ss@gmail.com**
+- 📫 How to reach me **kishu45kk@gmail.com**
 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishu-p&show_icons=true&theme=dark&locale=en&layout=compact" alt="kishu-p" /></p>
