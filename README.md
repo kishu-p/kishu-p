@@ -2,8 +2,6 @@
 <h1 align="center"> A random dumb who eventually fall in love with Coding</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<div class="tenor-gif-embed" data-postid="20362433" data-share-method="host" data-aspect-ratio="1.35021" data-width="100%"><a href="https://tenor.com/view/pokemon-pikachu-gif-20362433">Pokemon Pikachu GIF</a>from <a href="https://tenor.com/search/pokemon-gifs">Pokemon GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishu-p" alt="kishu-p" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
