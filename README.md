@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **FRONTEND DEVELOPMENT...**
 
-- 📫 How to reach me **kishu4kk@gmail.com**
+- 📫 How to reach me **kishu**@gmail.com**
 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishu-p&show_icons=true&theme=dark&locale=en&layout=compact" alt="kishu-p" /></p>
