@@ -1,6 +1,6 @@
 <h1 align="center"> नमस्ते (Namaste), I'm Kishu Singh! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h1 align="center"> A random dumb who eventually fall in love with Coding</h1>
-<h3 align="center">A passionate FullStack developer from 🇮🇳</h3>
+<h3 align="center">A passionate FullStack developer from India 🇮🇳</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishu-p" alt="kishu-p" /></a> </p>
 
