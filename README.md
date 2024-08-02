@@ -8,7 +8,7 @@
 <hr>
 - 🔭 I’m currently working on **BACKEND**
 
-- 🌱 I’m currently learning **T3**
+- 🌱 I’m currently learning **T3.**
 
 - 💬 Ask me about **FRONTEND DEVELOPMENT...**
 
