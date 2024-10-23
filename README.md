@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **T3**
 
-- 💬 Ask me about **FRONTEND DEVELOPMENT...**
+- 💬 Ask me about **FRONTEND DEVELOPMENT.**
 
 - 📫 How to reach me **kishu450kk@gmail.com**
 
